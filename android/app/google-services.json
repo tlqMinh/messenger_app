@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481549752936",
+    "project_id": "chatapp-cc7d4",
+    "storage_bucket": "chatapp-cc7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481549752936:android:52d9bbf8dd9fc48cfdf9dd",
+        "android_client_info": {
+          "package_name": "vn.ntu.edu.MinhTran.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481549752936-v60njnpg7pivqol9qmbb8jncfoeo4g8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCKMFTOKNaFvSYzbUiT5oRWqrw1-2k30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481549752936-v60njnpg7pivqol9qmbb8jncfoeo4g8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
